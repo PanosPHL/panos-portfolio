@@ -1,0 +1,54 @@
+- name: flowNotes
+  url: https://flownotes.herokuapp.com
+  description: Create timestamped notes for "flows" to analyze gameplay videos for various esports. Notes will automatically pause when a video arrives at the note's timestamp, and you can click on notes to navigate the video.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Redux
+    - Express.js
+    - Node.js
+    - MDBReact
+    - YouTube API
+  icon: website
+
+- name: Player Seeking Player
+  url: https://player-seeking-player.herokuapp.com
+  description: A social media website for musician to find, connect, and create bands with other local musicians in their area.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Redux
+    - CSS
+    - Python
+    - Flask
+    - YouTube API
+    - Google Maps API
+  icon: website
+
+- name: EverQuote
+  url: https://everquote.herokuapp.com
+  description: A note-taking and organizational web application inspired by evernote.com. Users can take notes, organize them into notebooks, and delete said notes and notebooks at their discretion.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Redux
+    - CSS
+    - Python
+    - Flask
+  icon: website
+
+- name: aAGoodreads
+  url: https://aAgoodreads.herokuapp.com
+  description: A web application for viewing, organizing, and reviewing books inspired by goodreads.com.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - CSS
+    - Pug
+    - Express.js
+    - Node.js
+  icon: website

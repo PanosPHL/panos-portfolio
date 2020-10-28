@@ -1,0 +1,30 @@
+- profile:
+  initials: PD
+  name: Panayiotis Dimopoulos
+  email: panayiotis.dimopoulos@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Scotch Plains, NJ
+  relocation: true
+  company: Currently Seeking Employment
+  for_hire: true
+  focus: Building Complex UIs with plain CSS
+  focus_url: https://developer.mozilla.org/en-US/docs/Web/CSS
+  about: |
+    I'm a software engineer with a genuine curiosity for solving complex problems in creative ways. I believe that my diverse background in music, business analytics, and programming enables me to tackle any challenge I face both from an artistic and a pragmatic point of view. As a team member, my primary focus is great output with the added flexibility of being of help to whoever may need it.
+  skills:
+    - JavaScript / Node.js
+    - HTML / CSS
+    - Python
+  tools:
+    - React
+    - Redux
+    - Express
+    - Flask
+    - Docker
+    - Git
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
