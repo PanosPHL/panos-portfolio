@@ -1,6 +1,8 @@
 - name: flowNotes
   url: https://flownotes.herokuapp.com
-  description: Create timestamped notes for "flows" to analyze gameplay videos for various esports. Notes will automatically pause when a video arrives at the note's timestamp, and you can click on notes to navigate the video.
+  description:
+    flowNotes is a full stack video / notetaking application built in React / Redux, Express, and PostgreSQL that aims to give gamers a single hub for analyzing esports footage.
+    It is a community-driven site that allows a user to interact with other users' content making it a great tool for self-analysis, collaborative learning, and coaching.
   status: live
   tags:
     - JavaScript
@@ -14,7 +16,9 @@
 
 - name: Player Seeking Player
   url: https://player-seeking-player.herokuapp.com
-  description: A social media website for musician to find, connect, and create bands with other local musicians in their area.
+  description:
+    Player Seeking Player is a full-stack application built in React / Redux, Flask, Python, and PostgreSQL that aims to ease the difficulty of networking with local musicians in the COVID-19 era. This project was built completely in Vanilla CSS to cultivate the skill of building a fluid UI from the ground up.
+    It is a social media application which allows users to post recordings, search for other users by instrument and preferred styles, and create bands all in the interest of managing the networking and collaboration of local musicians. It is my hope that it will help hobbyist and professional musicians alike manage their musical endeavors.
   status: live
   tags:
     - JavaScript
@@ -42,13 +46,13 @@
 
 - name: aAGoodreads
   url: https://aAgoodreads.herokuapp.com
-  description: A web application for viewing, organizing, and reviewing books inspired by goodreads.com.
+  description: readWell is a fullstack book management application built with Pug.js/CSS/JavaScript, Express, and PostgreSQL that aims to give book fans a platform to track books they have read, discover new books to read, and leave reviews on books they either love or hate. Its user experience is built with simplicity in mind to make it a usable website for people of all different walks of life. The project is inspired by goodreads.com.
   status: live
   tags:
     - JavaScript
     - HTML
     - CSS
-    - Pug
+    - Pug.js
     - Express.js
     - Node.js
   icon: website

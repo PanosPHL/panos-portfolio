@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: "panos-portfolio",
+    pathPrefix: "/panos-portfolio",
     siteMetadata: {
       description: "Portfolio page of Panayiotis Dimopoulos",
       locale: "en",
